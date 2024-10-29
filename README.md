@@ -84,3 +84,6 @@ Gunakan elif break untuk menghentikan program jika memilih 2 dan menampilkan pes
 ### Langkah 8
 Print selesai:
 ![Gambar 1](screenshot/dok20.png)
+
+### Hasil eksekusi program
+![Gambar 1](screenshot/dok21.png)
